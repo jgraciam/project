@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8527" started-at="2020-01-24T12:54:52 CET" finished-at="2020-01-24T12:55:01 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8527" started-at="2020-01-24T12:54:52 CET" finished-at="2020-01-24T12:55:01 CET">
+      <class name="com.indra.es.TestNG1">
+        <test-method status="PASS" signature="singleTest()[pri:0, instance:com.indra.es.TestNG1@6b0c2d26]" name="singleTest" duration-ms="8483" started-at="2020-01-24T12:54:52 CET" finished-at="2020-01-24T12:55:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- com.indra.es.TestNG1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
