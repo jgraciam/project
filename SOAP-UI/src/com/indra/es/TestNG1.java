@@ -18,10 +18,6 @@ import com.eviware.soapui.support.SoapUIException;
 //Ahora cojo y pongo una cosita en el master
 // Ahora estoy en Branch1 y pongo este cambio
 // abc
-// A
-// C
-//B
-//D
 
 public class TestNG1 {
 
